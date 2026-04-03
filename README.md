@@ -46,12 +46,12 @@ Data Collection → Data Cleaning → Data Modeling → DAX Calculations → Das
 - 📷 Dashboard Preview
 
 ![image alt](https://github.com/ashishkumar1812/PowerBI_Dashboard/blob/ecce05ded96b3517e04e2c9a2e0014ea01ff4904/ScreenShots/1.png)
+![image alt](https://github.com/ashishkumar1812/PowerBI_Dashboard/blob/a18374bfc3a7d51109a9b5a8dfc418ad689a2ed3/ScreenShots/2.png)
+![image alt](https://github.com/ashishkumar1812/PowerBI_Dashboard/blob/a18374bfc3a7d51109a9b5a8dfc418ad689a2ed3/ScreenShots/3.png)
 
-📎 How to Use
-Download the .pbix file
-Open in Power BI Desktop
-Explore the dashboard using filters
+
 ⭐ Author
 
+
 Ashish Kumar
-Aspiring Data Analyst
+(Aspiring Data Analyst)
